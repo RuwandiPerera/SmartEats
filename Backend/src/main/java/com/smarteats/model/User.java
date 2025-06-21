@@ -3,8 +3,6 @@ package com.smarteats.model;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.springframework.boot.autoconfigure.amqp.RabbitConnectionDetails.Address;
-
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.smarteats.dto.RestuarantDto;
 

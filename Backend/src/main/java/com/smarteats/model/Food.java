@@ -3,7 +3,6 @@ package com.smarteats.model;
 import java.sql.Date;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale.Category;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.ElementCollection;
